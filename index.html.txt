@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>Task Tracker</title>
+</head>
+<body>
+    <h1>My Task Tracker</h1>
+    <ul>
+        <li>Setup GitHub Repo</li>
+        <li>Build Portfolio</li>
+        <li>Land the new project!</li>
+    </ul>
+</body>
+</html>
