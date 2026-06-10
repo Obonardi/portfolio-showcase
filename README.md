@@ -1,20 +1,20 @@
-# \# Portfolio Showcase
+\# Portfolio Showcase
 
-# 
 
-# Welcome to my portfolio project! This repository is used to showcase my ability to manage collaborative software development workflows, including branching, pull requests, and documentation.
 
-# 
+Welcome to my portfolio project! This repository is used to showcase my ability to manage collaborative software development workflows, including branching, pull requests, and documentation.
 
-# \## Tech Stack
 
-# \* Git/GitHub
 
-# \* Documentation
+\## Tech Stack
 
-# 
+\* \*\*Git/GitHub\*\*
 
-# \## About
+\* \*\*Documentation\*\*
 
-# This project serves as a demonstration of my professional development practices.
+
+
+\## About
+
+This project serves as a demonstration of my professional development practices.
 
