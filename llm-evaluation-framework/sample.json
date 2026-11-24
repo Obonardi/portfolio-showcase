@@ -1,0 +1,6 @@
+[
+  {"case_id":"math-01","model":"Synthetic A","response":"45","accuracy":2,"reasoning":1,"instruction_following":2,"notes":"Correct result but no explanation."},
+  {"case_id":"math-01","model":"Synthetic B","response":"40 because 15 times 3 is 40.","accuracy":0,"reasoning":0,"instruction_following":2,"notes":"Arithmetic error; explanation is incorrect."},
+  {"case_id":"source-01","model":"Synthetic A","response":"The supplied passage does not specify a date.","accuracy":2,"reasoning":2,"instruction_following":2,"notes":"Correctly avoids inventing a date."},
+  {"case_id":"source-01","model":"Synthetic B","response":"The date was May 4, 2020.","accuracy":0,"reasoning":0,"instruction_following":0,"notes":"Unsupported date; violates source-only instruction."}
+]
